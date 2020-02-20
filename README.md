@@ -1,3 +1,7 @@
+# bug
+
+model_list.json中，任意对象包含元素个数必须 > 1 否则404
+
 # Live2D Widget
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
